@@ -24,18 +24,18 @@ author:
   name             : "Tahir Ridha Jaffer"
   pronouns         : # example: "he/his"  
   bio              : "Researcher in Islamic Studies"
-  location         : "Earth"
+  location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : "http://www.jaffer.ir"
-  email            : "tr@jaffer.ir" 
+  email            : #"tr@jaffer.ir" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=c90w_MQAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=c90w_MQAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Tahir-Jaffer"
+  researchgate     : #"https://www.researchgate.net/profile/Tahir-Jaffer"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
