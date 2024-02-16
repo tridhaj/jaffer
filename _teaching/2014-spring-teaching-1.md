@@ -2,19 +2,16 @@
 title: "Download IRTH Software for PC"
 collection: teaching
 type: "Software"
-permalink: "https://www.jaffer.ir/?smd_process_download=1&download_id=267"
+permalink: 
 venue: "Please read the instructions included first"
-date: 2014-01-01
+date: 2020-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Download the IRTH Islamic Inheritance Calculator for PC from:
+ 
+https://jaffer.ir/?smd_process_download=1&download_id=267
 
-Heading 1
-======
+(Note: Please read the instructions included first).
 
-Heading 2
-======
-
-Heading 3
-======
+This software is shariahware (a new term we coined to refer to any software based on Islamic legal rulings which was made solely for the purpose of pleasing Allah and assisting believers with a matter pertaining to the Shariah). Please feel free to download, upload, share, distribute, etc.
