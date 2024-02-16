@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "Blog"
-    url: /talks/    
+    url: https://www.jaffer.ir/    
 
   - title: "IRTH Islamic Inheritance Calculator"
     url: /teaching/    

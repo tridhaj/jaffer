@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Download IRTH Software for PC"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "Software"
+permalink: /files/irth.zip
+venue: "Please read the instructions included first"
 date: 2014-01-01
 location: "City, Country"
 ---
