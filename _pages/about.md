@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Dr. Tahir Ridha Jaffer's personal website, or as they say in Kiswahili: Karibuni Sana! This is a mirror or backup of the researcher's original blog and [website](https://www.jaffer.ir) and hosted on GitHub pages.
+Welcome to Dr. Tahir Ridha Jaffer's personal website, or as they say in Kiswahili: Karibuni Sana! This is a mirror or backup of the researcher's original blog and [website] (https://www.jaffer.ir) and hosted on GitHub pages.
 
 A data-driven personal website
 ======
