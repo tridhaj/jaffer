@@ -2,7 +2,7 @@
 title: "Download IRTH Software for PC"
 collection: teaching
 type: "Software"
-permalink: /files/irth.zip
+permalink: /files/irth.7z
 venue: "Please read the instructions included first"
 date: 2014-01-01
 location: "City, Country"
