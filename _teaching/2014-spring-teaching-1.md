@@ -2,13 +2,13 @@
 title: "Download IRTH Software for PC"
 collection: teaching
 type: "Software"
-permalink: /files/irth.zip
+permalink: "https://drive.google.com/file/d/17A_pSfwH8H6PfHn1upkGC_sxbMIPzEdm/view?usp=drive_link"
 venue: "Please read the instructions included first"
-date: 2014-01-01
+date: #2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This software is shariahware (a new term we coined to refer to any software based on Islamic legal rulings which was made solely for the purpose of pleasing Allah and assisting believers with a matter pertaining to the Shariah). Please feel free to download, upload, share, distribute, etc.
 
 Heading 1
 ======
