@@ -1,11 +1,11 @@
 ---
-title: 
-collection: 
-type: 
+title: "Download IRTH Software for PC"
+collection: teaching
+type: "Software"
 permalink: 
-venue: 
-date: 
-location: 
+venue: "Please read the instructions included first"
+date: 2020-01-01
+location: "City, Country"
 ---
 
 Download the IRTH Islamic Inheritance Calculator for PC from this [link](https://jaffer.ir/?smd_process_download=1&download_id=267)
