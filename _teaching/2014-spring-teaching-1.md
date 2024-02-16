@@ -2,7 +2,7 @@
 title: "Download IRTH Software for PC"
 collection: teaching
 type: "Software"
-permalink: /files/irth.7z
+permalink: https://www.jaffer.ir/?smd_process_download=1&download_id=267
 venue: "Please read the instructions included first"
 date: 2014-01-01
 location: "City, Country"
