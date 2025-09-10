@@ -11,7 +11,7 @@ title                    : "Dr. Tahir Ridha Jaffer"
 title_separator          : "-"
 name                     : &name "Tahir Ridha Jaffer"
 description              : &description "personal description"
-url                      : https://tridhaj.github.io/jaffer/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://durus.ir
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
