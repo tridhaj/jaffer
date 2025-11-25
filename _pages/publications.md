@@ -18,6 +18,7 @@ author_profile: true
 -->
 
 <h3>Monographs:</h3>
+<p style="text-align: center;"><a href="https://tridhaj.github.io/jaffer/files/Pinnacle of Eloquence vol 2.pdf">Pinnacle of Eloquence &#8211; vol. 2</a></p>
 <p style="text-align: center;"><a href="https://tridhaj.github.io/jaffer/files/Pinnacle of Eloquence - vol 1.pdf">Pinnacle of Eloquence &#8211; vol. 1</a></p>
 <p style="text-align: center;"><a href="https://tridhaj.github.io/jaffer/files/A Commentary of Du'a al-Sabah.pdf">A New Day Dawns &#8211; Commentary on Dua al-Sabah</a></p>
 <p style="text-align: center;"><a href="https://tridhaj.github.io/jaffer/files/Infallible Words vol 1.pdf">Infallible Words &#8211; vol. 1</a></p>
