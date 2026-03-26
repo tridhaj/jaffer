@@ -17,6 +17,9 @@ author_profile: true
 {% endfor %}
 -->
 
+<h4 style="text-align: center;"><strong>[Important Note: Our works are published by Ansariyan Publications and WOFIS only. Any other publisher who has reprinted any of the books below have done so without permission]</strong></h4>
+<p>&nbsp;</p>
+
 <h3>Monographs:</h3>
 <p style="text-align: center;"><a href="https://tridhaj.github.io/jaffer/files/Pinnacle of Eloquence vol 2.pdf">Pinnacle of Eloquence &#8211; vol. 2</a></p>
 <p style="text-align: center;"><a href="https://tridhaj.github.io/jaffer/files/Pinnacle of Eloquence - vol 1.pdf">Pinnacle of Eloquence &#8211; vol. 1</a></p>
