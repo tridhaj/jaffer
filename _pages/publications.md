@@ -35,5 +35,6 @@ author_profile: true
 <p style="text-align: center;"><a href="https://tridhaj.github.io/jaffer/files/The Consoler of Hearts upon the Death of Loved Ones and Children.pdf">The Consoler of Hearts (Musakkin al-Fu&#8217;ad)</a></p>
 <p style="text-align: center;"><a href="https://tridhaj.github.io/jaffer/files/Kitab al-Zuhd.pdf">Detachment from the World (Kitab al-Zuhd)</a></p>
 <p style="text-align: center;"><a href="https://tridhaj.github.io/jaffer/files/Selections from the Spring Garden of the Virtuous.pdf">Selections from the Spring Garden of the Virtuous</a></p>
-# <p>(Click on the title to download)<br />
-# * In case of problems while downloading, refer to our <a href="https://sites.google.com/view/dr-tahir-ridha-jaffer">mirror site</a> to download the files.</p>
+<!-- <p>(Click on the title to download)<br />
+ * In case of problems while downloading, refer to our <a href="https://sites.google.com/view/dr-tahir-ridha-jaffer">mirror site</a> to download the files.</p>
+-->
